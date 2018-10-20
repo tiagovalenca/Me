@@ -2,8 +2,8 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Tiago Lopes Valença'
+description: 'Estudante de Ciência da Computação na C.E.S.A.R. School e poeta nas horas vagas'
 
 # Images
 avatar: 'avatar.jpg'
@@ -11,14 +11,9 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
-dribbble: ''
-facebook: ''
-twitter: ''
-linkedin: ''
-instagram: ''
-pinterest: ''
-youtube: ''
-github-user: ''
+facebook: 'https://www.facebook.com/tiago.valenca.5'
+instagram: 'https://www.instagram.com/tiago.valenca/'
+github-user: 'https://github.com/tiagovalenca'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -28,11 +23,8 @@ github-user: ''
 #reddit: ''
 #medium:  ''
 #tumblr: ''
-weibo: ''
-vk: ''
-blog_url: ''
-email: ''
-messenger: ''
+#blog_url: ''
+email: 'tlv.cesar.school'
 
 # Advanced settings
 plugins:
