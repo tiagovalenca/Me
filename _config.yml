@@ -11,9 +11,9 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
-facebook: 'https://www.facebook.com/tiago.valenca.5'
-instagram: 'https://www.instagram.com/tiago.valenca/'
-github-user: 'https://github.com/tiagovalenca'
+facebook: 'tiago.valenca.5'
+instagram: 'tiago.valenca'
+github-user: 'tiagovalenca'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
