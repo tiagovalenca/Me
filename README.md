@@ -5,5 +5,5 @@
 - A gourmet
 
 ## What Projects I was/am involved in?
-[a link](https://github.com/victoralmeida432/MARSSChool)
-[a link](https://github.com/Storm-Petrel/Hermes)
+- [MARS project for C.E.S.A.R.](https://github.com/victoralmeida432/MARSSChool)
+- [HERMES project for Wings](https://github.com/Storm-Petrel/Hermes)
